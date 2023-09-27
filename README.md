@@ -1,0 +1,1 @@
+# using-terraform-to-deploy-static-website-on-an-Ec2-instance
